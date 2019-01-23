@@ -4,3 +4,5 @@ FEATURE LOCAL 1 ON MASTER
 FEATURE LOCAL 2 ON MASTER
 REMOTE FEATURE 3
 REMOTE FEATURE 4
+remote branch1 feature xx
+remote branch1 feature xxx
